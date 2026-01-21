@@ -64,7 +64,7 @@ Projeto completo com backend, frontend, pgAdmin, Node.js, Vite e React
 ### 🎬 [Projeto Web Cinema](https://github.com/SalmaoPinho/projeto-web-cinema-aluno-funcionario)
 Sistema web para gerenciamento de cinema - Trabalho acadêmico
 
-## 📫 Como me encontrar
+## 📫 Redes Sociais
 
 <div align="center">
 
@@ -79,6 +79,6 @@ Sistema web para gerenciamento de cinema - Trabalho acadêmico
   
   ![Profile Views](https://komarev.com/ghpvc/?username=SalmaoPinho&color=blueviolet&style=flat-square)
   
-  **💬 "Código limpo não é escrito seguindo regras. É escrito com cuidado."** - Robert C. Martin
+  **💬 "You miss 100% of the shots you don't take." ~ Wayne Gretzky** - Michael Scott
   
 </div>
