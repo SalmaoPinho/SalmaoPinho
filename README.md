@@ -45,8 +45,6 @@ Sou um desenvolvedor de tecnologia e inovação, sempre buscando aprender e cria
   ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalmaoPinho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaoPinho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SalmaoPinho&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
