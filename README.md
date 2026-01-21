@@ -46,7 +46,7 @@ Sou um desenvolvedor de tecnologia e inovação, sempre buscando aprender e cria
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaoPinho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalmaoPinho&theme=tokyonight&hide_border=true&background=0D1117)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=SalmaoPinho&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
